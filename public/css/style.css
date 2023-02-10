@@ -16,7 +16,7 @@ input[type="text"] {
 }
 
 body {
-  background-image: url("../img/math.jpg");
+  background-image: url("https://www.bing.com/images/search?view=detailV2&ccid=PMNEmeBz&id=E32DAE1AFEF31DF0DED9B6E03762DF7E19548A9D&thid=OIP.PMNEmeBz0g-87QqsteG8kAHaEo&mediaurl=https%3a%2f%2fimages.alphacoders.com%2f112%2f112121.jpg&exph=1600&expw=2560&q=wallpaper&simid=608017694258260798&FORM=IRPRST&ck=FDCD716ADF4064E136AEF1F5E07C172D&selectedIndex=1");
   background-size: cover;
   background-attachment: fixed;
 }
